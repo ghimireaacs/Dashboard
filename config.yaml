@@ -1,0 +1,27 @@
+baseURL: https://ashishghimire.com
+languageCode: en-us
+title: Dashboard
+theme: PaperMod
+params:
+  profileMode:
+    enabled: true
+    title: Ashish
+    imageUrl: /img/logo/light.png
+    imageTitle: Ashish
+    subtitle: Hello You can find different side of me here
+
+  socialIcons:
+    - name: Github
+      url: "https://github.com/ghimireaacs"
+    
+    - name: Twitter
+      url: https://twitter.com/aacsghimire/
+    
+    - name: Youtube
+      url: https://youtube.com/@ashishghimire/
+
+    - name: other
+      url: https://blog.ashishghimire.com
+
+    - name: rss
+      url: https://notes.ashishghimire.com
